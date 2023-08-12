@@ -1,0 +1,44 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 1100px;
+  margin: 0;
+  font-family: Raleway, sans-serif;
+ }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+address,
+ul,
+ol,
+li,
+button,
+blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+
+address{
+  font-family: Raleway;
+  font-style: normal;
+  text-decoration: none;
+
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  width: 100%;
+}
